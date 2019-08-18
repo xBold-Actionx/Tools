@@ -7,5 +7,9 @@ Selection of tools and resources for a variety of projects
 * [Objdump](https://sourceware.org/binutils/docs/binutils/objdump.html)
 * [Gdb](https://www.gnu.org/software/gdb/)
 
-## Scanning
+## Web Apps
 * [Burp Suite](https://portswigger.net/burp)
+
+## Networks
+* [Wireshark](https://www.wireshark.org/)
+* [Aircrack-ng](https://www.aircrack-ng.org/)
